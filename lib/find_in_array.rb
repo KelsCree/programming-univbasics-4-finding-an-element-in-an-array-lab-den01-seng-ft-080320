@@ -1,3 +1,3 @@
 def find_element_index(array, value_to_find)
-  for.each |index|
+  array.length |index|
 end
